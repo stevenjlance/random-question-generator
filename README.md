@@ -10,7 +10,7 @@ GOAL
 ------------
 Your goal today is to build an app that (1) generates a random question from a set list of questions, (2) generates a resposne to the same question, and (3) accepts user question/answer submissions. If you are ready for a challenge, you will also have the opportunity to figure out how to delete specific questions from the question bank! 
 
-![Working App]()
+![Working App](https://media.giphy.com/media/S7QTorIdwE6yZ6IkNG/giphy.gif)
 
 TASKS
 ------------
