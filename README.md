@@ -1,1 +1,8 @@
-# random-question-generator
+RANDOM QUESTION GENERATOR
+=================
+
+GOAL
+------------
+
+TASKS
+------------

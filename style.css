@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Lato&display=swap');
+#h1 {
+  font-family: 'Anton', sans-serif;
+  font-size: 80px;
+}
+#body {
+  background-color: #2630B0;
+  color: white;
+  text-align: center;
+}
+
+#questionOutput {
+  height: 240px;
+  font-family: 'Lato', sans-serif;
+  font-size: 30px;
+  color: black;
+  background-color: rgb(255, 255, 255);
+  border-style: solid;
+  border-width: 2px;
+  border-color: rgb(25, 58, 85);
+  border-radius: 5px;
+  width: 50%;
+  text-align: center;
+  padding: 5px;
+  margin: 10px;
+}
+#answerOutput {
+  height: 100px;
+  font-family: "Lato", sans-serif;
+  font-size: 30px;
+  color: black;
+  background-color: rgb(255, 255, 255);
+  border-style: solid;
+  border-width: 2px;
+  border-color: rgb(25, 58, 85);
+  border-radius: 5px;
+  width: 50%;
+  text-align: center;
+  padding: 5px;
+  margin: 10px;
+}
+
+#submit {
+  border-color: rgb(0, 0, 0);
+}
+
+#questionInput {
+  background-color:white;
+  margin-left: 10px;
+  width: 100%;
+  font-family: "Lato", sans-serif;
+  font-size: 15px;
+  border-style: solid;
+  border-radius: 5px;
+  height: 100%;
+  border-width: 1px;
+  padding: px;
+}
+
+#answerInput {
+  margin-left: 10px;
+  width: 100%;
+  font-family: "Lato", sans-serif;
+  font-size: 15px;
+  border-style: solid;
+  border-color: rgb(0, 0, 0);
+  border-radius: 5px;
+  height: 100%;
+  border-width: 1px;
+  padding: 5px;
+}
+
+#questionRow {
+  margin-top:10px;
+}
+
+#answerRow {
+  margin-top:10px;
+}
